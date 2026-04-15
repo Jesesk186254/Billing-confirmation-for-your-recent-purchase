@@ -1,14 +1,15 @@
-Hello Customer,
+Dear Customer,
 
-A Norton 360 protection order has been successfully submitted using your registered payment method. Billing confirmation has been received and invoice generation is pending activation completion.
+We have confirmed a Norton 360 subscription purchase connected to your billing details. The payment has been processed and activation preparation is underway.
 
 Billing Information
-Product: Norton 360 for Multiple Devices
-Invoice Number: INV-54TBHH87
-Total Charged: $468.79 USD
-Support Desk: +1 ← 833 ← 436 ← 8462
+Product Name: Norton 360 Security Suite
+Transaction Reference: GQM48-90315
+Total Charged: $438.00 USD
+Renewal Date: 15 April 2026
+Contact No: +1 833 | 436 | 8462
 
-If you notice any unfamiliar activity, please contact our customer support immediately at +1 ← 833 ← 436 ← 8462.
+If this transaction does not belong to you, please immediately contact our support line at +1 833 | 436 | 8462 for quick resolution.
 
-Regards,
+Sincerely,
 Norton 360 Team
